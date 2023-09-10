@@ -26,8 +26,6 @@ export const Accounts = () => {
          justify={'center'}
          direction={'column'}
       >
-
-
          <Text h3>All Accounts</Text>
          <Flex
             css={{gap: '$8'}}
