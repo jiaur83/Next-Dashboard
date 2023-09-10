@@ -10,7 +10,6 @@ const Chart = dynamic(() => import("../charts/steam").then((mod) => mod.Steam), 
     ssr: false,
 });
 
-
 const dashboard = () => {
   return (
     <Box css={{ overflow: "hidden", height: "100%" }}>
