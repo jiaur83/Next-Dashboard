@@ -26,24 +26,7 @@ export const Accounts = () => {
          justify={'center'}
          direction={'column'}
       >
-         {/* <Breadcrumbs>
-            <Crumb>
-               <HouseIcon />
-               <Link href={'/'}>
-                  <CrumbLink href="#">Home</CrumbLink>
-               </Link>
-               <Text>/</Text>
-            </Crumb>
 
-            <Crumb>
-               <UsersIcon />
-               <CrumbLink href="#">Users</CrumbLink>
-               <Text>/</Text>
-            </Crumb>
-            <Crumb>
-               <CrumbLink href="#">List</CrumbLink>
-            </Crumb>
-         </Breadcrumbs> */}
 
          <Text h3>All Accounts</Text>
          <Flex
