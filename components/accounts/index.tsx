@@ -54,6 +54,7 @@ export const Accounts = () => {
          </Flex>
 
          <TableWrapper />
+         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse, nam ipsa! Architecto, facere, aliquid accusamus quis quae eaque necessitatibus blanditiis pariatur quam quod eius dolor quasi possimus? Nesciunt, molestias recusandae?</p>
       </Flex>
    );
 };
